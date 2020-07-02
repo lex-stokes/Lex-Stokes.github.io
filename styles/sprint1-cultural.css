@@ -1,0 +1,75 @@
+body {
+    background-color:  #42033c;
+    color: #ddf03c;
+    font-family: "Cinzel Decorative", 'Times New Roman', Times, serif;
+    font-size: 30px;
+    cursor: url('../img/bulbasaur.cur'), progress;
+    text-decoration: none;
+    text-align: center;
+}
+
+.hOne {
+    margin: 50px;
+    padding: 20px;
+    opacity: 0.3;
+    border-style:border-box;    
+    color:  #ddf03c;
+	border: 3px #42033c solid;
+    position: center;
+    text-align: center;
+    font-size: 100px;
+    background-color:#636dc2;
+    border-radius: 7px;
+    cursor: url('../img/bulbasaur.cur'), progress;
+    filter: drop-shadow(0 0 0.75rem rgb(179, 8, 93));
+}
+
+.hOne:hover {
+    opacity: 1;
+}
+
+.button {
+    opacity: 0.7;
+	color: #42033c;
+	border: 2px #ddf03c solid;
+	border-radius: 7px;
+    background-color: #636dc2;
+    width: 114px;
+    height: 57px;
+    text-decoration: none;
+
+}
+
+.hyper {
+    text-decoration: none;
+}
+
+.nav {
+    opacity: 0.7;
+    background-color: #ddf03c; 
+    color: #42033c;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Tangerine', serif;
+  }
+  
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+
+  .nav:hover {
+      opacity: 1;
+  }
+
+ 
+  .img {
+    opacity: 0.7;
+}
+
+.img:hover {
+    opacity: 1;
+}

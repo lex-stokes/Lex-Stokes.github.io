@@ -1,0 +1,103 @@
+body {
+    background-color:  #42033c;
+    color: #ddf03c;
+    font-size: 26px;
+    cursor: url('../img/bulbasaur.cur'), progress;
+    text-decoration: none;
+    text-align: center;
+    font-family: "Cinzel Decorative", 'Times New Roman', Times, serif;
+}
+
+.hOne {
+    font-family: 'Tangerine', serif;
+    margin: 50px;
+    padding: 20px;
+    opacity: 0.3;
+    border-style:border-box;    
+    color:  #ddf03c;
+	border: 3px #42033c solid;
+    position: center;
+    text-align: center;
+    font-size: 100px;
+    background-color:#636dc2;
+    border-radius: 7px;
+    cursor: url('../img/bulbasaur.cur'), progress;
+    filter: drop-shadow(0 0 0.75rem rgb(179, 8, 93));
+}
+
+.hOne:hover {
+    opacity: 1;
+}
+
+.button {
+    opacity: 0.7;
+	color: #42033c;
+	border: 2px #ddf03c solid;
+	border-radius: 7px;
+    background-color: #636dc2;
+    width: 114px;
+    height: 57px;
+    text-decoration: none;
+
+}
+
+.hyper {
+    text-decoration: none;
+}
+
+.nav {
+    font-family: 'Tangerine', serif;
+    opacity: 0.7;
+    background-color: #ddf03c; 
+    color: #42033c;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+
+  .nav:hover {
+      opacity: 1;
+  }
+
+#example1 {
+    border-style: border-box;
+    border: 8px #ddf03c solid;
+    width: 300px;
+    padding: 30px;
+    border-radius: 7px;
+}
+
+#example2 {
+    border-style: border-box;
+    border: 3px #ddf03c solid;
+    width: 300px;
+}
+
+#example3 {
+    border-style: border-box;
+    border: 3px #ddf03c dotted;
+    width: 300px;
+}
+
+#example4 {
+    border-style: border-box;
+    border: 3px #ddf03c dotted;
+    width: 300px;
+    padding: 40px;
+    margin: 75px;
+}
+
+#example5 {
+    border-style: border-box;
+    border: 25px #ddf03c inset;
+    width: 300px;
+    padding: 40px;
+    margin: 50px;
+}
