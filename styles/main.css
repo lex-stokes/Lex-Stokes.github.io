@@ -47,6 +47,7 @@ body {
 
 .button:hover {
     opacity: 1;
+    cursor: url('../img/squirtle.cur'), progress;
 }
 
 p {
@@ -75,6 +76,7 @@ p {
 
   .nav:hover {
       opacity: 1;
+      cursor: url('../img/squirtle.cur'), progress;
   }
 
 

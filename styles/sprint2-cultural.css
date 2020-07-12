@@ -40,6 +40,11 @@ body {
 
 }
 
+.button:hover {
+    opacity: 1;
+    cursor: url('../img/squirtle.cur'), progress;
+}
+
 .hyper {
     text-decoration: none;
 }
@@ -63,6 +68,7 @@ body {
 
   .nav:hover {
       opacity: 1;
+      cursor: url('../img/squirtle.cur'), progress;
   }
 
   .img {
